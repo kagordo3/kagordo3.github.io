@@ -163,6 +163,7 @@ article h4{
 
 /*footer*/
 .footer-block{
+     box-shadow: 0 50vh 0 50vh steelblue;
     overflow:hidden;
     background-color: steelblue;
     padding: 10px 25px;
@@ -271,4 +272,22 @@ article h4{
 .feature-backdrop{
     overflow:auto;
     background-color: ghostwhite;
+}
+
+.project-box{
+    background-color:darkorange;
+    color:white;
+    float:left;
+    padding: 25px;
+    margin: 0 25px 15px 5px;
+    border-radius: 5px;
+}
+
+.document-box{
+    padding: 25px;
+    float:left;
+    background-color:olivedrab;
+    color:white;
+    margin: 0 25px 15px 5px;
+    border-radius: 5px;
 }
