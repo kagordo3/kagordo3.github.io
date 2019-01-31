@@ -111,7 +111,7 @@ p{
 }
 
 
-
+/* services */
 .backdrop{
     clear:both;
     overflow:hidden;
@@ -129,6 +129,13 @@ p{
 
 article h3{
     clear:both;
+}
+
+/* description boxes */
+
+article h4{
+    font-family: 'Song Myung', serif;
+    font-size: 18px;
 }
 
 .box{
@@ -152,10 +159,6 @@ article h3{
 
 .green-box{
     background-color: olivedrab;
-}
-
-.boximg{
-    margin: 10px;
 }
 
 /*footer*/
